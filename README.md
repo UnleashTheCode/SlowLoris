@@ -1,2 +1,3 @@
 # SlowLoris
-WIP
+
+SlowLoris is an DDos attack against Apache servers.
